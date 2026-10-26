@@ -6,3 +6,4 @@
 - `4-listmorefiles`: lists the contents of the current directory in long format, including hidden files.
 - `5-listfilesdigitonly`: lists the contents of the current directory in long format, including hidden files, with numeric user and group IDs.
 - `6-firstdirectory`: creates a directory named my_first_directory in /tmp.
+- `7-movethatfile`: moves the file betty from /tmp to /tmp/my_first_directory.
