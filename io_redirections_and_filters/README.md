@@ -7,3 +7,4 @@
 - `5-firstlines`: displays the first 10 lines of /etc/passwd.
 - `6-third_line`: displays the third line of the file iacta.
 - `7-file`: creates a file with a name full of special characters, containing "Best School" and a new line.
+- `8-cwd_state`: writes the result of ls -la into the file ls_cwd_content, creating or overwriting it.
