@@ -4,3 +4,4 @@
 - `2-path`: adds /action to the end of PATH, so it is the last directory searched for programs.
 - `3-paths`: counts the number of directories in PATH, ignoring empty entries.
 - `4-global_variables`: lists all environment (global) variables.
+- `5-local_variables`: lists all local variables, environment variables and functions.
