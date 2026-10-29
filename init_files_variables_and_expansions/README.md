@@ -9,3 +9,4 @@
 - `7-create_global_variable`: creates a global (exported) variable named BEST with the value School.
 - `8-true_knowledge`: prints the result of 128 plus the value of the environment variable TRUEKNOWLEDGE.
 - `9-divide_and_rule`: prints the result of the environment variable POWER divided by DIVIDE.
+- `10-love_exponent_breath`: displays the result of BREATH to the power LOVE.
